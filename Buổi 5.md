@@ -96,6 +96,7 @@ Công dụng:
 - Hiển thị luồng điều khiển, điều kiện và vòng lặp trong quá trình hoạt động của hệ thống.
 - Được sử dụng để mô tả các quy trình kinh doanh, các tác vụ trong hệ thống.
 ![Activity Diagram](img3.jpg)
+
 Ví dụ, biểu đồ hoạt động có thể mô tả luồng làm việc của một hệ thống đăng nhập, từ việc nhập thông tin đến xác thực và cấp quyền truy cập.
 
 Cả hai loại biểu đồ đều quan trọng trong việc phát triển phần mềm. Biểu đồ lớp giúp hiểu cấu trúc của hệ thống, trong khi biểu đồ hoạt động tập trung vào các quy trình và hoạt động của hệ thống.
